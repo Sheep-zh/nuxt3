@@ -11,5 +11,4 @@
 </template>
 <script>
 // import '~/assets/global.css'
-import '~/assets/a.css'
 </script>
