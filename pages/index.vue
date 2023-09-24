@@ -9,3 +9,7 @@
     <NuxtLink to="/detail/3">detail-3</NuxtLink>
   </div>
 </template>
+<script>
+// import '~/assets/global.css'
+import '~/assets/a.css'
+</script>
